@@ -1,0 +1,97 @@
+{
+  "dashboard": {
+    "title": "Siłownia",
+    "logout": "Wyloguj"
+  },
+  "menuItems": {
+    "dashboard": "Strona główna",
+    "clients": "Klienci",
+    "trainers": "Trenerzy",
+    "carnets": "Karnety",
+    "other": "Inne",
+    "statistics": "Statystyki",
+    "settings": "Ustawienia",
+    "myCalendar": "Mój kalendarz",
+    "training": "Treningi",
+    "myCarnet": "Mój karnet",
+    "myTrening": "Mój trening",
+    "profile": "Profil"
+  },
+  "clients": {
+    "name": "Imie",
+    "surname": "Nazwisko",
+    "address": "Adres",
+    "contactData": "Nr telefonu",
+    "email": "E-mail",
+    "login": "Login",
+    "actions": "Akcje",
+    "status": "Status",
+    "add": "Dodaj klienta",
+    "addButton": "Dodaj",
+    "edit": "Edytuj dane"
+  },
+  "trainers": {
+    "name": "Imie",
+    "surname": "Nazwisko",
+    "address": "Adres",
+    "contactData": "Nr telefonu",
+    "email": "E-mail",
+    "login": "Login",
+    "actions": "Akcje",
+    "status": "Status",
+    "add": "Dodaj trenera",
+    "addButton": "Dodaj"
+  },
+  "carnets": {
+    "sale": "Liczba aktywnych",
+    "price": "Cena",
+    "name": "Nazwa karnetu",
+    "duration": "Okres ważności"
+  },
+  "trainingForm": {
+    "title": "Tytuł",
+    "quantity": "Liczba uczestników",
+    "type": "Typ treningu",
+    "duration": "Czas trwania",
+    "Group": "Trening grupowy",
+    "Individual": "Trening indywidualny",
+    "add": "Dodaj trening",
+    "addButton": "Dodaj"
+  },
+  "carnetForm": {
+    "add": "Dodaj nowy karnet"
+  },
+  "table": {
+    "search": "Szukaj...",
+    "selected": " zaznaczono",
+    "delete": "Usuń",
+    "add": "Dodaj",
+    "edit": "Edytuj",
+    "block": "Zablokuj",
+    "rowsPerPage": "Liczba wierszy na stronie",
+    "nextPage": "następna strona",
+    "prevPage": "poprzednia strona",
+    "selectAll": "zaznacz wszystkich"
+  },
+  "errors": {
+    "type": "Typ treningu jest wymagany",
+    "title": "Tytuł jest wymagany",
+    "start": "Data treningu jest wymagana",
+    "duration": "Czas trwania jest wymagany",
+    "quantity": "Liczba uczestników jest wymagana",
+    "price": "Cena karnetu jest wymagana",
+    "nameCarnet": "Nazwa karnetu jest wymagana",
+    "durationCarnet": "Ilość trwania jest wymagana"
+  },
+  "goodMessage": {
+    "createPersonnel": "Prawidłowo dodano osobę",
+    "createTraining": "Proawidłowo utworzono trening",
+    "createCarnet": "Prawidłowo utworzono nowy karnet",
+    "updatePofile": "Prawidłowo zaktualizowano dane",
+    "selectCarnet": "Dodano karnet",
+    "activateCarnet": "Pomyślnie aktywowano karnet",
+    "takePart": "Dodano do listy twoich treningów",
+    "deleteItems": "Prawidłowo usunięto dane",
+    "deleteTrening": "Usunięto trening z twojej listy"
+  }
+}

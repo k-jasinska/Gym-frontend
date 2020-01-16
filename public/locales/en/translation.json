@@ -1,0 +1,97 @@
+{
+  "dashboard": {
+    "title": "Gym",
+    "logout": "Logout"
+  },
+  "menuItems": {
+    "dashboard": "Dashboard",
+    "clients": "Clients",
+    "trainers": "Trainers",
+    "carnets": "Carnets",
+    "other": "Other",
+    "statistics": "Statistics",
+    "settings": "Settings",
+    "myCalendar": "Calendar",
+    "training": "Training",
+    "myCarnet": "My Carnet",
+    "myTrening": "My training",
+    "profile": "Profile"
+  },
+  "clients": {
+    "name": "Name",
+    "surname": "Surname",
+    "address": "Address",
+    "contactData": "Phone number",
+    "email": "E-mail",
+    "login": "Login",
+    "actions": "Actions",
+    "status": "Status",
+    "add": "Add client",
+    "addButton": "Add",
+    "edit": "Edit"
+  },
+  "trainers": {
+    "name": "Name",
+    "surname": "Surname",
+    "address": "Address",
+    "contactData": "Phone number",
+    "email": "E-mail",
+    "login": "Login",
+    "actions": "Actions",
+    "status": "Status",
+    "add": "Add trainer",
+    "addButton": "Add"
+  },
+  "carnets": {
+    "sale": "Number of active",
+    "price": "Price",
+    "name": "Name",
+    "duration": "Duration"
+  },
+  "trainingForm": {
+    "title": "Title",
+    "quantity": "Quantity",
+    "type": "Type",
+    "duration": "Duration",
+    "Group": "Group training",
+    "Individual": "Individual training",
+    "add": "Add training type",
+    "addButton": "Add"
+  },
+  "carnetForm": {
+    "add": "Add new carnet"
+  },
+  "table": {
+    "search": "Search...",
+    "selected": " zelected",
+    "delete": "Delete",
+    "add": "Add",
+    "edit": "Edit",
+    "block": "Block",
+    "rowsPerPage": "rows per page",
+    "nextPage": "next page",
+    "prevPage": "previous page",
+    "selectAll": "select all"
+  },
+  "errors": {
+    "type": "Type of training is required",
+    "title": "Title is required",
+    "start": "Start date is required",
+    "duration": "Duration is required",
+    "quantity": "Quantity is required",
+    "price": "Price is required",
+    "nameCarnet": "Name of carnet is required",
+    "durationCarnet": "Duration is required"
+  },
+  "goodMessage": {
+    "createPersonnel": "Person added successfully",
+    "createTraining": "Create training successfully",
+    "createCarnet": "Create carnet successfully",
+    "updatePofile": "Update profile successfully",
+    "selectCarnet": "Selected carnet",
+    "activateCarnet": "Activate carnet successfully",
+    "takePart": "Addet to your training list",
+    "deleteItems": "Delete data successfully",
+    "deleteTrening": "Deleted training from your list"
+  }
+}
